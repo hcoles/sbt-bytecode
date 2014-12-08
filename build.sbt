@@ -10,4 +10,4 @@ resolvers += "Local Maven" at Path.userHome.asFile.toURI.toURL + ".m2/repository
 
 libraryDependencies += "org.ow2.asm" % "asm-util" % "4.0"
 
-libraryDependencies += "org.pitest" % "highwheel-parser" % "0.1-SNAPSHOT"
+libraryDependencies += "org.pitest" % "highwheel-parser" % "1.0"

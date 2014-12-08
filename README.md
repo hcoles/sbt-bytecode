@@ -16,7 +16,7 @@ Setup properties in build.sbt
 ``` scala
 import org.pitest.sbt._
 
-byteCodeSettings
+bytecodeSettings
 ```
 
 
